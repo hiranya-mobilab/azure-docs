@@ -191,7 +191,7 @@ You can use the following script to perform pre-flight checks. The script perfor
 - Checks if the service principal has user Access Administrator permissions.
 - Create an Azure Virtual Network.   
 - Create an Azure Virtual Key Vault with private end point.   
-- Create an Azure Files NSF share.   
+- Create an Azure Files NFS share.   
 - Create an Azure Virtual Machine with data disk using Premium Storage v2.   
 - Check access to the required URLs using the deployed virtual machine.
 
